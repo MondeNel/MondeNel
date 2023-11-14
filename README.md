@@ -3,11 +3,13 @@
 I'm a recent graduate from CodeSpace, where I honed my skills in HTML, CSS, React & JavaScript. As an aspiring front-end developer, I'm enthusiastic about creating dynamic and user-friendly web applications.
 
 ## Technologies :
-
 <div style="display: flex; justify-content: space-between; align-items: center; gap: 20px">
     <img src="https://github.com/MondeNel/MondeNel/blob/fc5ddda3f6ab3152fce55047e030f70ce9d266af/JavaScript-logo.png" alt="JavaScript Logo" style="width: 100px; height: 100px;">
     <img src="https://github.com/MondeNel/MondeNel/blob/fc5ddda3f6ab3152fce55047e030f70ce9d266af/react.jpg" alt="React Logo" style="width: 100px; height: 100px;">
+    <img src="https://github.com/MondeNel/MondeNel/blob/c38e3209620e9fe84c30ace8c2bf5575bcf1bf7d/css.png" alt="CSS Logo" style="width: 100px; height: 100px;">
+    <img src="https://github.com/MondeNel/MondeNel/blob/c38e3209620e9fe84c30ace8c2bf5575bcf1bf7d/html.png" alt="HTML Logo" style="width: 100px; height: 100px;">
 </div>
+
 
 
 
