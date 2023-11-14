@@ -66,7 +66,7 @@ JavaScript 🚀
 ✔ Division
 
 #### How to Use
-Clone the repository: git clone https://github.com/MondeNel/calculator.git
+Clone the repository: git clone https://github.com/MondeNel/Calculator_Application.git
 Open the index.html file in your preferred web browser.
 
 ##### License
