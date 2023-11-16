@@ -127,7 +127,7 @@ JavaScript 🚀
 ✔ Detailed weather information, including minimum and maximum temperatures, pressure, humidity, and wind speed
 
 #### How to Use
-1. Clone the repository: `git clone https://github.com/MondeNel/Weather_Application.git`
+1. Clone the repository: git clone https://github.com/MondeNel/Weather_Application
 2. Install dependencies: `npm install`
 3. Run the app: `npm start`
 4. Open the app in your preferred web browser.
