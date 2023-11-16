@@ -108,5 +108,33 @@ Install dependencies: npm install
 Run the app: npm start
 Open the app in your preferred web browser.
 
+
+## Weather Application
+
+### Overview
+The Weather Application is a web-based platform that provides users with current weather conditions for a specified city. It offers a user-friendly interface, allowing users to check essential weather details such as temperature, feels-like temperature, minimum and maximum temperatures, pressure, humidity, and wind speed.
+
+#### Technologies Used
+React ⚛️
+CSS 🎨
+JavaScript 🚀
+Fuse.js 🔍 (for enhanced search functionality)
+
+#### Features
+✔ Current weather display with dynamic background
+✔ Dynamic background based on temperature
+✔ Detailed weather information, including minimum and maximum temperatures, pressure, humidity, and wind speed
+
+#### How to Use
+1. Clone the repository: `git clone https://github.com/MondeNel/Weather_Application.git`
+2. Install dependencies: `npm install`
+3. Run the app: `npm start`
+4. Open the app in your preferred web browser.
+
+
+##### License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+
 ##### License
 This project is licensed under the MIT License - see the LICENSE file for details.
