@@ -95,6 +95,7 @@ React ⚛️
 CSS 🎨
 JavaScript 🚀
 Supabase 🛡️
+Fuse.js 🔍 (for enhanced search functionality)
 
 #### Features
 ✔ Browse and discover podcasts
@@ -118,7 +119,7 @@ The Weather Application is a web-based platform that provides users with current
 React ⚛️
 CSS 🎨
 JavaScript 🚀
-Fuse.js 🔍 (for enhanced search functionality)
+
 
 #### Features
 ✔ Current weather display with dynamic background
