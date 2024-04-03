@@ -4,10 +4,10 @@ I'm a recent graduate from CodeSpace, where I honed my skills in HTML, CSS, Reac
 
 ## Technologies :
 <div style="display: flex; justify-content: space-between; align-items: center; gap: 20px">
-    <img src="https://github.com/MondeNel/MondeNel/blob/fc5ddda3f6ab3152fce55047e030f70ce9d266af/JavaScript-logo.png" alt="JavaScript Logo" style="width: 100px; height: 100px;">
-    <img src="https://github.com/MondeNel/MondeNel/blob/fc5ddda3f6ab3152fce55047e030f70ce9d266af/react.jpg" alt="React Logo" style="width: 100px; height: 100px;">
     <img src="https://github.com/MondeNel/MondeNel/blob/c38e3209620e9fe84c30ace8c2bf5575bcf1bf7d/css.png" alt="CSS Logo" style="width: 100px; height: 100px;">
     <img src="https://github.com/MondeNel/MondeNel/blob/c38e3209620e9fe84c30ace8c2bf5575bcf1bf7d/html.png" alt="HTML Logo" style="width: 100px; height: 100px;">
+    <img src="https://github.com/MondeNel/MondeNel/blob/fc5ddda3f6ab3152fce55047e030f70ce9d266af/JavaScript-logo.png" alt="JavaScript Logo" style="width: 100px; height: 100px;">
+    <img src="https://github.com/MondeNel/MondeNel/blob/fc5ddda3f6ab3152fce55047e030f70ce9d266af/react.jpg" alt="React Logo" style="width: 100px; height: 100px;">
 </div>
 
 
@@ -22,14 +22,7 @@ This is my digital resume project created as part of the CodeSpace Academy curri
 HTML ⚙️
 CSS 🎨
 
-#### Features
-✔ Responsive design for various devices
-✔ Clear and organized layout
-✔ Highlighted skills and education
-
-#### How to Use
-Clone the repository: git clone https://github.com/MondeNel/MONNEL173_FTO2304_GroupB_Digital_Resume.git
-Open the index.html file in your preferred web browser.
+https://mondenelresume.netlify.app/
 
 ##### License
 This project is licensed under the MIT License - see the LICENSE file for details.
@@ -48,12 +41,10 @@ JavaScript
 
 #### Features
 ✔ View a list of books
-✔  Read book descriptions
+✔ Read book descriptions
 ✔ User-friendly interface
  
-#### How to Use
-Clone the repository: git clone https://github.com/MondeNel/MONNEL173_FTO2304_GroupB_MondeNel_IWACapstone.git
-Open the index.html file in your preferred web browser.
+https://bookbrowser.netlify.app/
 
 ##### License
 This project is licensed under the MIT License - see the LICENSE file for details.
@@ -85,7 +76,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 
 
-## Podcast App
+## Movie App
 
 ### Overview
 This is a podcast application built using React, CSS, JavaScript, and Supabase. It allows users to discover and listen to their favorite podcasts.
@@ -98,16 +89,9 @@ Supabase 🛡️
 Fuse.js 🔍 (for enhanced search functionality)
 
 #### Features
-✔ Browse and discover podcasts
-✔ Listen to episodes
-✔ Search for specific podcasts or episodes
-✔ User authentication (if applicable)
+✔ Browse and discover specific shows and seasons with episodes
 
-#### How to Use
-Clone the repository: git clone https://github.com/MondeNel/MONNEL173_FTO2304_GROUPB_MONDENEL_PFCapstone.git
-Install dependencies: npm install
-Run the app: npm start
-Open the app in your preferred web browser.
+https://moonshoot3000.netlify.app/
 
 
 ## Weather Application
@@ -126,16 +110,9 @@ JavaScript 🚀
 ✔ Dynamic background based on temperature
 ✔ Detailed weather information, including minimum and maximum temperatures, pressure, humidity, and wind speed
 
-#### How to Use
-1. Clone the repository: git clone https://github.com/MondeNel/Weather_Application
-2. Install dependencies: `npm install`
-3. Run the app: `npm start`
-4. Open the app in your preferred web browser.
+https://checkanycityweather.netlify.app/
 
 
 ##### License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-
-##### License
-This project is licensed under the MIT License - see the LICENSE file for details.
