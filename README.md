@@ -1,6 +1,6 @@
 ## Hi there 👋 my name is Monde Nel
 
-I'm a recent graduate from CodeSpace, where I honed my skills in HTML, CSS, React & JavaScript. As an aspiring front-end developer, I'm enthusiastic about creating dynamic and user-friendly web applications.
+I am a full-stack developer with expertise in HTML, CSS, JavaScript, React, Python, and FastAPI. With a strong foundation in both front-end and back-end development, I specialize in building dynamic, user-friendly web applications. Passionate about creating seamless digital experiences, I thrive on solving complex problems and developing scalable solutions.
 
 ## Technologies :
 <div style="display: flex; justify-content: space-between; align-items: center; gap: 20px">
