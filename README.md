@@ -1,14 +1,12 @@
-## Hi there 👋 my name is Monde Nel
+👋 Hi, I'm Monde Nel
+I'm a full-stack developer with a passion for crafting seamless and dynamic web applications. With solid experience in both front-end and back-end technologies, I specialize in building user-friendly interfaces and scalable backend systems.
 
-I am a full-stack developer with expertise in HTML, CSS, JavaScript, React, Python, and FastAPI. With a strong foundation in both front-end and back-end development, I specialize in building dynamic, user-friendly web applications. Passionate about creating seamless digital experiences, I thrive on solving complex problems and developing scalable solutions.
+🚀 Tech Stack:
+Front-End: HTML, CSS, JavaScript, React
 
-## Technologies :
-- HTML
-- CSS
-- JavaScript
-- React
-- Python
+Back-End: Python, FastAPI, NodeJS, Express
 
+💡 I thrive on solving complex problems and turning ideas into efficient, maintainable code.
 
 
 
