@@ -3,14 +3,15 @@
 I am a full-stack developer with expertise in HTML, CSS, JavaScript, React, Python, and FastAPI. With a strong foundation in both front-end and back-end development, I specialize in building dynamic, user-friendly web applications. Passionate about creating seamless digital experiences, I thrive on solving complex problems and developing scalable solutions.
 
 ## Technologies :
-<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px">
+<div style="display: flex; justify-content: space-between; align-items: center; gap: 20px; flex-wrap: wrap;">
     <img src="https://github.com/MondeNel/MondeNel/blob/c38e3209620e9fe84c30ace8c2bf5575bcf1bf7d/css.png" alt="CSS Logo" style="width: 100px; height: 100px;">
     <img src="https://github.com/MondeNel/MondeNel/blob/c38e3209620e9fe84c30ace8c2bf5575bcf1bf7d/html.png" alt="HTML Logo" style="width: 100px; height: 100px;">
     <img src="https://github.com/MondeNel/MondeNel/blob/fc5ddda3f6ab3152fce55047e030f70ce9d266af/JavaScript-logo.png" alt="JavaScript Logo" style="width: 100px; height: 100px;">
     <img src="https://github.com/MondeNel/MondeNel/blob/fc5ddda3f6ab3152fce55047e030f70ce9d266af/react.jpg" alt="React Logo" style="width: 100px; height: 100px;">
-    <img src="https://github.com/MondeNel/MondeNel/blob/fc5ddda3f6ab3152fce55047e030f70ce9d266af/python.jpg" alt="React Logo" style="width: 100px; height: 100px;">
-    <img src="https://github.com/MondeNel/MondeNel/blob/fc5ddda3f6ab3152fce55047e030f70ce9d266af/fastapi.jpg" alt="React Logo" style="width: 100px; height: 100px;">
+    <img src="https://github.com/MondeNel/MondeNel/blob/fc5ddda3f6ab3152fce55047e030f70ce9d266af/python.jpg" alt="Python Logo" style="width: 100px; height: 100px;">
+    <img src="https://github.com/MondeNel/MondeNel/blob/fc5ddda3f6ab3152fce55047e030f70ce9d266af/fastapi.jpg" alt="FastAPI Logo" style="width: 100px; height: 100px;">
 </div>
+
 
 
 
