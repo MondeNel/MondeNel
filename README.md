@@ -1,14 +1,14 @@
-👋 Hi, I'm Monde Nel
+## 👋 Hi, I'm Monde Nel
 I'm a full-stack developer with a passion for crafting seamless and dynamic web applications. With solid experience in both front-end and back-end technologies, I specialize in building user-friendly interfaces and scalable backend systems.
 
-🚀 Tech Stack:
+## 🚀 Tech Stack:
 Front-End: HTML, CSS, JavaScript, React
 
 Back-End: Python, FastAPI, Node.js, Express
 
 💡 I thrive on solving complex problems and turning ideas into efficient, maintainable code.
 
-🧾 Digital Resume
+## 🧾 Digital Resume
 📌 Overview
 This is my digital resume project created as part of the CodeSpace Academy curriculum. It showcases my skills, experience, and educational background in a clean and interactive layout.
 
@@ -22,7 +22,7 @@ CSS 🎨
 
 
 
-📚 BookConnect Application
+## 📚 BookConnect Application
 📌 Overview
 BookConnect is a web app that allows users to explore book details and read descriptions. Due to content restrictions, it offers a preview-focused browsing experience.
 
@@ -49,7 +49,7 @@ https://bookbrowser.netlify.app/
 
 
 
-🧮 Calculator App
+## 🧮 Calculator App
 📌 Overview
 A simple, web-based calculator that supports basic arithmetic operations like addition, subtraction, multiplication, and division.
 
@@ -71,13 +71,12 @@ JavaScript 🚀
 
 🛠️ How to Use
 git clone https://github.com/MondeNel/Calculator_Application.git
-# Open index.html in your browser
 
 
 
 
 
-🎬 Movie App (Podcast App)
+## 🎬 Movie App (Podcast App)
 📌 Overview
 A podcast application built with React and Supabase that lets users explore, browse, and stream episodes of their favorite shows.
 
