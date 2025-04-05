@@ -4,113 +4,127 @@ I'm a full-stack developer with a passion for crafting seamless and dynamic web 
 🚀 Tech Stack:
 Front-End: HTML, CSS, JavaScript, React
 
-Back-End: Python, FastAPI, NodeJS, Express
+Back-End: Python, FastAPI, Node.js, Express
 
 💡 I thrive on solving complex problems and turning ideas into efficient, maintainable code.
 
+🧾 Digital Resume
+📌 Overview
+This is my digital resume project created as part of the CodeSpace Academy curriculum. It showcases my skills, experience, and educational background in a clean and interactive layout.
 
-
-
-## Digital Resume
-
-### Overview
-This is my digital resume project created as part of the CodeSpace Academy curriculum. It showcases my skills, experience, and educational background.
-
-#### Technologies Used
+🔧 Technologies Used
 HTML ⚙️
+
 CSS 🎨
 
-https://mondenelresume.netlify.app/
-
-##### License
-This project is licensed under the MIT License - see the LICENSE file for details.
+📄 License: MIT License
 
 
 
-## BookConnect Application
 
-### Overview
-BookConnect is a web application that allows users to view book details and read descriptions. Due to copyright and patent restrictions, the app focuses on providing a preview of books.
+📚 BookConnect Application
+📌 Overview
+BookConnect is a web app that allows users to explore book details and read descriptions. Due to content restrictions, it offers a preview-focused browsing experience.
 
-#### Technologies Used
+🔧 Technologies Used
 HTML ⚙️
-CSS 🎨
-JavaScript
 
-#### Features
-✔ View a list of books
-✔ Read book descriptions
-✔ User-friendly interface
- 
+CSS 🎨
+
+JavaScript 🚀
+
+✨ Features
+✔ View a curated list of books
+
+✔ Read brief book descriptions
+
+✔ Clean and intuitive user interface
+
+🔗 Live Demo
 https://bookbrowser.netlify.app/
 
-##### License
-This project is licensed under the MIT License - see the LICENSE file for details.
+📄 License: MIT License
 
 
 
-## Calculator
 
-### Overview
-This is a simple web-based calculator application. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
-#### Technologies Used
+🧮 Calculator App
+📌 Overview
+A simple, web-based calculator that supports basic arithmetic operations like addition, subtraction, multiplication, and division.
+
+🔧 Technologies Used
 HTML ⚙️
+
 CSS 🎨
+
 JavaScript 🚀
 
-#### Features
+✨ Features
 ✔ Addition
+
 ✔ Subtraction
+
 ✔ Multiplication
+
 ✔ Division
 
-#### How to Use
-Clone the repository: git clone https://github.com/MondeNel/Calculator_Application.git
-Open the index.html file in your preferred web browser.
-
-##### License
-This project is licensed under the MIT License - see the LICENSE file for details.
+🛠️ How to Use
+git clone https://github.com/MondeNel/Calculator_Application.git
+# Open index.html in your browser
 
 
 
-## Movie App
 
-### Overview
-This is a podcast application built using React, CSS, JavaScript, and Supabase. It allows users to discover and listen to their favorite podcasts.
 
-#### Technologies Used
+🎬 Movie App (Podcast App)
+📌 Overview
+A podcast application built with React and Supabase that lets users explore, browse, and stream episodes of their favorite shows.
+
+🔧 Technologies Used
 React ⚛️
+
 CSS 🎨
+
 JavaScript 🚀
+
 Supabase 🛡️
-Fuse.js 🔍 (for enhanced search functionality)
 
-#### Features
-✔ Browse and discover specific shows and seasons with episodes
+Fuse.js 🔍 (for search)
 
+✨ Features
+✔ Browse shows, seasons, and episodes
+
+✔ Search functionality with Fuse.js
+
+✔ Responsive and clean layout
+
+🔗 Live Demo
 https://moonshoot3000.netlify.app/
 
 
-## Weather Application
 
-### Overview
-The Weather Application is a web-based platform that provides users with current weather conditions for a specified city. It offers a user-friendly interface, allowing users to check essential weather details such as temperature, feels-like temperature, minimum and maximum temperatures, pressure, humidity, and wind speed.
 
-#### Technologies Used
+
+☁️ Weather Application
+📌 Overview
+A weather platform that provides real-time weather data for any city, with an engaging and visually dynamic UI.
+
+🔧 Technologies Used
 React ⚛️
+
 CSS 🎨
+
 JavaScript 🚀
 
+✨ Features
+✔ Real-time weather info by city
 
-#### Features
-✔ Current weather display with dynamic background
 ✔ Dynamic background based on temperature
-✔ Detailed weather information, including minimum and maximum temperatures, pressure, humidity, and wind speed
 
+✔ Detailed stats: feels-like temp, min/max, pressure, humidity, wind speed
+
+🔗 Live Demo
 https://checkanycityweather.netlify.app/
 
-
-##### License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
+📄 License: MIT License
