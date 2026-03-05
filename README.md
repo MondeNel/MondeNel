@@ -18,4 +18,6 @@ I'm a full-stack developer passionate about building seamless and dynamic web ap
 
 **Database & Tools:**  
 - PostgreSQL  
+- MongoDB  
+- Firebase  
 - Docker
