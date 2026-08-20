@@ -18,6 +18,7 @@ I am based in Cape Town and looking for a **Software Developer, Back-end or Syst
 
 ## 🛠️ Tech Stack
 
+**Architecture:** Monolithic · Microservices  
 **Back-End:** Python · FastAPI · PostgreSQL · SQLite · SQLAlchemy · BeautifulSoup  
 **Infrastructure:** Docker · GitHub Actions · APScheduler · JWT Authentication  
 **AI & APIs:** Anthropic Claude API · Google Sheets API  
@@ -26,4 +27,4 @@ I am based in Cape Town and looking for a **Software Developer, Back-end or Syst
 
 ---
 
-📍 Cape Town, ZA · Open to Software Dev(Full-stack), Back-end & Systems Automation roles
+📍 Cape Town, ZA · Open to Software Dev (Full-stack), Back-end & Systems Automation roles
