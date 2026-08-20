@@ -26,4 +26,4 @@ I am based in Cape Town and looking for a **Software Developer, Back-end or Syst
 
 ---
 
-📍 Cape Town, ZA · Open to junior back-end & systems automation roles
+📍 Cape Town, ZA · Open to Software Dev(Full-stack), Back-end & Systems Automation roles
