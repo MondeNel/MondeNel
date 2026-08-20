@@ -1,6 +1,8 @@
 # 👋 Hi, I'm Monde Nel
 
-I am a junior back-end developer building applications with **Python (FastAPI)**, **PostgreSQL**, and **Docker**.
+I am a Software Developer, Back-end developer building applications with **Python (FastAPI)**, **PostgreSQL**, and **Docker**.
+
+**SA Tech Job Aggregator** *(private client repo)* is a daily production pipeline built for **CodeSpace** that scrapes South African job boards, screens roughly 670 listings down to the ~170 a graduate could realistically get, and publishes them to a React job board — every keep-or-drop decision traceable to words in the advert rather than an AI guess, and the whole run costs under a dollar a day.
 
 **[Equal Platform](https://github.com/MondeNel/equal-platform)** is a microservices paper trading system with AI-powered trade analysis and a full integration test suite — built to simulate real market conditions at the infrastructure level.
 
@@ -10,15 +12,17 @@ I am a junior back-end developer building applications with **Python (FastAPI)**
 
 My latest role was a project management position at **Metalogix Solutions**, where I stepped in for a maternity cover, upskilled rapidly, led a small dev team through sprint cycles, and delivered measurable business development results.
 
-I am based in Cape Town and looking for a **junior back-end or systems automation role** where I can ship real products alongside an experienced team.
+I am based in Cape Town and looking for a **Software Developer, Back-end or Systems Automation role** where I can ship real products alongside an experienced team.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Back-End:** Python · FastAPI · PostgreSQL · SQLite · SQLAlchemy  
-**Infrastructure:** Docker · APScheduler · JWT Authentication  
-**Front-End:** React · JavaScript · HTML · CSS  
+**Back-End:** Python · FastAPI · PostgreSQL · SQLite · SQLAlchemy · BeautifulSoup  
+**Infrastructure:** Docker · GitHub Actions · APScheduler · JWT Authentication  
+**AI & APIs:** Anthropic Claude API · Google Sheets API  
+**Front-End:** React · JavaScript · Tailwind CSS · Vite · HTML · CSS  
+**Testing:** pytest · Vitest · Playwright  
 
 ---
 
