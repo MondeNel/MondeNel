@@ -10,7 +10,7 @@ I am a Software Developer, Back-end developer building applications with **Pytho
 
 **[TrafficLens](https://github.com/MondeNel/trafficlens)** is a front‑end simulation prototype for a civic services portal — a fully clickable React application that explores how citizens and law enforcement might interact with a digital licence verification and traffic management system.
 
-My latest role was a project management position at **Metalogix Solutions**, where I stepped in for a maternity cover, upskilled rapidly, led a small dev team through sprint cycles, and delivered measurable business development results.
+My latest role was a Technical Project Manager position at **Metalogix Solutions**, where I stepped in for a maternity cover, upskilled rapidly, led a small dev team through sprint cycles, and delivered measurable business development results.
 
 I am based in Cape Town and looking for a **Software Developer, Back-end or Systems Automation role** where I can ship real products alongside an experienced team.
 
